@@ -23,3 +23,5 @@ If you have any questions or concerns, feel free to email me at hglanz@calpoly.e
 
 
 I've made changes!
+
+This is a copy of the workshop materials!!! :D <3 Gage
